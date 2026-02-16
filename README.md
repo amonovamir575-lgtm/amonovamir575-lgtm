@@ -1,1 +1,1 @@
-## Hi, I'm Amir Amonov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNqb3A2YWkxaWFubXJqbDg1MjJ2aHdtNXFhdGI4NTYybDFubHBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" alt="">
+## Hi, I'm Amir Amonov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNqb3A2YWkxaWFubXJqbDg1MjJ2aHdtNXFhdGI4NTYybDFubHBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" alt="" width="50px">
